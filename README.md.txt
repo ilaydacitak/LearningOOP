@@ -1,0 +1,1 @@
+This project contains the examples which I have applied during my Object Oriented Programming learning process.
